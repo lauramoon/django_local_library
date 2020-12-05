@@ -1,0 +1,17 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+    background-color: #206A5D;
+    color: #f1f1e8;
+    min-height: calc(100vh);
+}
+
+body {
+    color: #206A5D;
+    background-color: #f1f1e8;
+}
+
+a {
+  color: #81b214;
+}
